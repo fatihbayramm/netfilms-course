@@ -21,3 +21,7 @@ div[data-nextjs-scroll-focus-boundary] {
 .container > .fluid {
   grid-column: 1 / -1;
 }
+
+nextjs-portal {
+  display: none;
+}
